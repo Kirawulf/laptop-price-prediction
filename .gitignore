@@ -1,0 +1,5 @@
+drive/
+.config/
+sample_data/
+*.gdoc
+*.gslide
